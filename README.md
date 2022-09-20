@@ -11,7 +11,7 @@ Python script to scan any kind of wireless network based on 2.4ghz using scapy N
 6. sudo python setup.py install
 
 # RUN
-1. Use sudo python3 wifi-scanner.py <monitor mode_interface> \n
-e.g sudo python3 wifi-scanner.py wlan1mon
+1. Use sudo python3 wifi-scanner.py <monitor mode_interface> 
+2. e.g sudo python3 wifi-scanner.py wlan1mon
 
 # Enjoy
